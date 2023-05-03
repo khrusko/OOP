@@ -1,0 +1,2 @@
+{"Name":"Mats HUMMELS","Captain":false,"Shirt_number":5,"Position":"Defender","MyNumberOfGoals":0,"MyNumberOfYellowCards":0,"ImagePath":"C:\\Users\\karlo_6zwakzv\\Desktop\\Faks\\4. Semestar\\Projektni zadaci\\OOP - praktikum u .NET okolini\\OOP-KarloHruskovec\\slike\\Player04.jpg"}
+{"Name":"Dusko TOSIC","Captain":false,"Shirt_number":3,"Position":"Defender","MyNumberOfGoals":0,"MyNumberOfYellowCards":0,"ImagePath":"C:\\Users\\karlo_6zwakzv\\Desktop\\Faks\\4. Semestar\\Projektni zadaci\\OOP - praktikum u .NET okolini\\OOP-KarloHruskovec\\slike\\Player24.jpg"}
